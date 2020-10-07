@@ -1,0 +1,14 @@
+export const REGISTER = "[USER] REGISTER";
+export const REGISTER_ERR = "[USER] REGISTER ERR";
+export const REGISTER_EXT = "[USER] REGISTER EXTERNAL";
+export const REGISTER_EXT_ERR = "[USER] REGISTER EXTERNAL ERR";
+
+export const LOGIN_REQUEST = "LOGIN_REQUEST";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAILURE = "LOGIN_FAILURE";
+
+export const AUTH_REQUEST = "AUTH_REQUEST";
+export const AUTH_SUCCESS = "AUTH_SUCCESS";
+export const AUTH_FAILURE = "AUTH_FAILURE";
+
+export const LOGOUT = "LOGOUT";

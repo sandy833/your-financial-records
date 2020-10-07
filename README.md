@@ -1,0 +1,17 @@
+# starter-web
+
+Description: create fresh start of web apps
+
+## Setup
+
+Follow below steps to run project
+
+1. Clone repository
+2. Change directory `cd /frontend` or `cd /backend`
+3. Run `npm install` command to install all dependencies
+4. Execute `npm start` command to run the project
+
+### Connect with us
+
+Website: http://lahipa.com  
+Instagram: https://instagram.com/yoga.lahipa
